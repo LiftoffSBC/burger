@@ -15,10 +15,10 @@ else {
 		password: "root",
 		database: 'burgers_db',
 
-		dialect: "mysql",
-		dialectOptions: {
-			socketPath: "/Applications/MAMP/tmp/mysql/mysql.sock"
-		}
+		// dialect: "mysql",
+		// // dialectOptions: {
+		// // 	socketPath: "/Applications/MAMP/tmp/mysql/mysql.sock"
+		// // }
 	});
 }
 
