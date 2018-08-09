@@ -1,7 +1,8 @@
 body {
-background-image: url(
-    "../img/bkgrnd.jpg"
-)  }
+    background-image: url(
+    "../img/bkgrnd.jpg");
+    background-size: 100%;  
+}
   
   .jumbotron h1{
       color: black;
@@ -20,4 +21,8 @@ background-image: url(
   
   .submitFont{
       color: black;
+  }
+
+  .p {
+      background-color: rgba(240, 255, 255, 0.562)
   }
