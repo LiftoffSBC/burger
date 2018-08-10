@@ -26,3 +26,11 @@ body {
   #info {
       background-color: rgba(240, 255, 255, 0.562)
   }
+
+  .submitFont{
+    background-color: rgba(240, 255, 255, 0.562)
+  }
+
+  .formcontrol {
+      background-color: rgba(240, 255, 255, 0.836)
+  }
