@@ -11,5 +11,5 @@ The App:
 Deployed app:
 [Heroku](https://pure-refuge-98127.herokuapp.com/index)
 
-![Screenshot](img/Screen Shot 2018-08-09 at 8.43.38 PM.png)
+![Screenshot](/img/Screen Shot 2018-08-09 at 8.43.38 PM.png)
 
