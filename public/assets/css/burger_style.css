@@ -1,7 +1,7 @@
 body {
     background-image: url(
     "../img/bkgrnd.jpg");
-    /* background-size: 100%;   */
+    background-size: 100%;  
 }
   
   .jumbotron h1{
@@ -23,6 +23,6 @@ body {
       color: black;
   }
 
-  /* .p {
+  .p {
       background-color: rgba(240, 255, 255, 0.562)
-  } */
+  }
