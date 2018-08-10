@@ -12,5 +12,6 @@ Deployed app:
 [Heroku](https://pure-refuge-98127.herokuapp.com/index)
 
 ![Screenshot](../burger/public/assets/img/screenshot.png)
-![Screenshot](https://raw.githubusercontent.com/{LiftoffSBC}/{burger}../burger/public/assets/img/screenshot.png)
+![alt text](https://raw.githubusercontent.com/liftoffsbc/burger/master/public/assets/img/screenshot.png)
+
 
