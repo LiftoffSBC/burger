@@ -11,5 +11,5 @@ The App:
 Deployed app:
 [Heroku](https://pure-refuge-98127.herokuapp.com/index)
 
-![Screenshot](/img/screenshot.png)
+![Screenshot](../burger/public/assets/img/screenshot.png)
 
