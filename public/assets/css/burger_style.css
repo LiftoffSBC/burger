@@ -36,5 +36,6 @@ body {
   }
 
   .footer {
-      background-color: grey
+      background-color: grey;
+      color: black
   }
